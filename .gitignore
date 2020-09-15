@@ -10,6 +10,11 @@
 
 /src
 /public
+package.json
+README.md
+tsconfig.json
+yarn.lock
+/build
 
 # misc
 .DS_Store
